@@ -1,2 +1,2 @@
 # dns
-It is a program about "DNS" in PYTHON. 
+It is a shell about "DNS" in PYTHON. 
